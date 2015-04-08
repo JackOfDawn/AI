@@ -1,0 +1,15 @@
+Left Click: Add a block
+Right Click: Remove a block
+
+ESC: escape the game
+S: Save all the maps
+L: Load all the maps in the file
+
+1:Select Wall Block
+2-9: Different Portals
++:Add a new 32x32 map
+-:Remove current 32X32 map
+
+Right Arrow: Cycle map to the right
+Left Arrow: Cycle map to the left\
+H/F1: help
